@@ -70,6 +70,18 @@ a {
 .section-container {
     z-index: 9;
     position: absolute;
-    top: 50%;
+    top: 35%;
     color: #f4f4f4;
+}
+.section-container h1 {
+    font-size: 4.2rem;
+    margin-bottom: 20px;
+}
+.section-container h2 {
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+.section-container p {
+    font-size: 1rem;
+    max-width: 900px;
 }
